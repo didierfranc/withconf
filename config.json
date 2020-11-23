@@ -1,0 +1,8 @@
+{
+  "bundle": true,
+  "outfile": "dist/graphql-proxy.js",
+  "sourcemap": true,
+  "platform": "node",
+  "loader:.graphql": "text",
+  "loader:.js": "ts"
+}
